@@ -11,7 +11,7 @@ class CalculateBMI {
     if (bmi! >= 25) {
       return 'Ашыкча салмак';
     } else if (bmi > 18.5) {
-      return 'Норма';
+      return 'Норма erwtyjurewtyt';
     } else {
       return 'Салмак аз';
     }
